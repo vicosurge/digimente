@@ -1,4 +1,3 @@
-  GNU nano 7.2                                                                       2024-12-14-compiling-nxlog-2.10.2150.markdown
 ---
 layout: post
 title: "Back during the recession in San Diego"
