@@ -1,0 +1,24 @@
+baseURL = 'https://vicosurge.github.io/digimente'
+languageCode = 'en-us'
+title = 'Digimente - Micro and Short Fiction'
+theme = 'hugo-bearblog'
+
+[params]
+  blog_description = "Micro fiction and short stories"
+  footer_text = "© 2025 Digimente"
+  
+[menu]
+  [[menu.main]]
+    name = "Micro Fiction"
+    url = "/micro/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Short Fiction"
+    url = "/short/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
