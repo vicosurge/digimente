@@ -5,6 +5,7 @@ type: "micro-fiction"
 genre: ["micro-fiction"]
 mood: "willingful"
 theme: ["Sarcasm"]
+featured: true
 ---
 The troubadour lacked disposition
 A heavy purse flew

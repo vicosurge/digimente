@@ -22,3 +22,9 @@ theme = 'hugo-bearblog'
     name = "About"
     url = "/about/"
     weight = 3
+
+[taxonomies]
+  genre = "genres"
+  theme = "themes"
+  mood = "moods"
+  type = "types"
