@@ -14,17 +14,6 @@ theme = 'hugo-bearblog'
     weight = 1
 
   [[menu.main]]
-    name = "Short Fiction"
-    url = "/short/"
-    weight = 2
-
-  [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
-
-[taxonomies]
-  genre = "genres"
-  theme = "themes"
-  mood = "moods"
-  type = "types"
+    weight = 2
