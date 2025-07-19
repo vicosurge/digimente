@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digimente - Micro and Short Fiction</title>
+    <link>https://vicosurge.github.io/digimente/</link>
+    <description>Recent content on Digimente - Micro and Short Fiction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vicosurge.github.io/digimente/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://vicosurge.github.io/digimente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vicosurge.github.io/digimente/</guid>
+      <description>Welcome to the Micro Fiction portion of the Digimente</description>
+    </item>
+    
+  </channel>
+</rss>
