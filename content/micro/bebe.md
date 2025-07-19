@@ -1,11 +1,10 @@
 ---
 title: "Bebe"
 date: 2021-05-13
-type: "micro-fiction"
-genre: ["micro-fiction"]
-mood: "satirical"
-theme: ["panic", "humor"]
-description: "What would you do if you found a baby on the side of the street?"
+tags: 
+  - panic
+  - humor
+author: Vicente Manuel Muñoz Milchorena
 ---
 
 -¡Dios mío alguien salve a ese bebe! -

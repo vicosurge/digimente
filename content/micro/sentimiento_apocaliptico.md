@@ -1,10 +1,9 @@
 ---
 title: "Sentimiento apocaliptico"
 date: 2021-05-13
-type: "micro-fiction"
-genre: ["micro-fiction"]
-mood: "stressed"
-theme: ["stress"]
+tags: 
+  - estres
+author: Vicente Manuel Muñoz Milchorena
 ---
 
 Sentimientos apocalípticos corren por mis venas y mi corazón, como si el fin 

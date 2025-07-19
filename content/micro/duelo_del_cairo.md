@@ -1,10 +1,10 @@
 ---
 title: "Duelo del Cairo"
 date: 2021-05-13
-type: "micro-fiction"
-genre: ["micro-fiction"]
-mood: "Sad"
-theme: ["Sad", "Satirical"]
+tags: 
+  - Sad
+  - Satirical
+author: Vicente Manuel Muñoz Milchorena
 ---
 
 El buen caballero Ingles James Inglewood camina por los mercados de la antigua 

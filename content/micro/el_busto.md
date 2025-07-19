@@ -1,9 +1,11 @@
 ---
 title: "El Busto"
 date: 2012-02-27
-type: "micro-fiction"
-genre: ["crítica política", "historia", "satírico"]
-description: Dos hombres observan cómo se remueve el busto de un héroe convertido en traidor. La historia se reescribe al ritmo del poder. Una reflexión breve sobre memoria y manipulación.
+tags: 
+  - crítica política
+  - historia
+  - satírico
+author: Vicente Manuel Muñoz Milchorena
 ---
 
 “¿Ahora qué?” —preguntó un hombre de traje, mientras observaba cómo unos obreros del silencio removían un busto de un Héroe ahora considerado Traidor de la Patria.

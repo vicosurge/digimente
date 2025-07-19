@@ -1,9 +1,11 @@
 ---
 title: "El Hombre de la Pistola"
 date: 2012-01-13
-type: "micro-fiction"
-genre: ["fábula", "crítica social", "parábola"]
-description: Un hombre amenaza con su pistola pero no sabe usarla. Cuando llega el momento de actuar, otro salva al niño. Una historia sobre poder fingido y responsabilidad ausente.
+tags:
+  - fábula
+  - crítica social
+  - parábola
+author: Vicente Manuel Muñoz Milchorena
 ---
 Un hombre carga siempre con su pistola y amenaza a todos con usarla. Un caballo 
 desbocado está a punto de matar a un niño. El hombre no usa la pistola para 

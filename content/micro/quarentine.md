@@ -1,13 +1,13 @@
 ---
 title: "Quarentine"
 date: 2019-04-01
-type: "micro-fiction"
-genre: ["micro-fiction"]
-mood: "love"
-theme: ["love", "quarentine"]
+tags: 
+  - love
+  - quarentine
+author: Vicente Manuel Muñoz Milchorena
 ---
 The quarentine was effective, but love could not be stopped.
 
-#hangtenstories 854
-#tenwords
-#amwritingfiction
+- #hangtenstories 854
+- #tenwords
+- #amwritingfiction

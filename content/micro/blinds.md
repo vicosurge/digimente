@@ -1,10 +1,9 @@
 ---
 title: "Blinds"
 date: 2006-04-02
-type: "micro-fiction"
-genre: ["micro-fiction"]
-mood: "melancholic"
-theme: ["Melancholic"]
+tags: 
+  - Melancholic
+author: Vicente Manuel Muñoz Milchorena
 ---
 
 There are gaps in the blinds at work; it’s a view into another world, when 

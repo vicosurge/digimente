@@ -1,9 +1,11 @@
 ---
 title: "Jesus, the Farmer"
 date: 2016-02-03
-type: "micro-fiction"
-genre: ["social commentary", "immigration", "irony"]
-description: A family thanks Jesus for their meal. Far away, Jesús—an undocumented Mexican farmworker—thanks them for the job that barely sustains him. A quiet reflection on labor, faith, and the American Dream.
+tags: 
+  - social commentary
+  - immigration
+  - irony
+author: Vicente Manuel Muñoz Milchorena
 ---
 
 At home, a family sits down for dinner and thanks Jesus for it.

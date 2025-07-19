@@ -1,17 +1,15 @@
 ---
 title: "Troubadour"
 date: 2019-04-01
-type: "micro-fiction"
-genre: ["micro-fiction"]
-mood: "willingful"
-theme: ["Sarcasm"]
-featured: true
+tags: 
+  - Sarcasm
+author: Vicente Manuel Muñoz Milchorena
 ---
 The troubadour lacked disposition
 A heavy purse flew
 Gold struck
 
-#hangtenstories 853
-#hangtenstories 852
-#3lines
-#tenwords
+- #hangtenstories 853
+- #hangtenstories 852
+- #3lines
+- #tenwords

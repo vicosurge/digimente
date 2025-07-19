@@ -1,10 +1,10 @@
 ---
 title: "Chicken"
 date: 2019-04-01
-type: "micro-fiction"
-genre: ["micro-fiction"]
-mood: "panic"
-theme: ["Sarcastic"]
+tags: 
+  - Sarcastic
+  - panic
+author: Vicente Manuel Muñoz Milchorena
 ---
 
 In the worst case scenario, we tell them that we are filming a commercial, 

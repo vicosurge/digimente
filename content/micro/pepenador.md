@@ -1,9 +1,11 @@
 ---
 title: "El Pepenador de Plomo"
 date: 2012-06-09
-type: "micro-fiction"
-genre: ["dystopía", "satírico", "ritual urbano"]
-description: Un hombre se prepara cada día para salir a atrapar balas con su paraguas magnético. Las vende, espera más, y repite el ciclo hasta que muera. Una rutina absurda en un mundo donde la violencia es recurso.
+tags: 
+  - dystopía
+  - satírico
+  - ritual urbano
+author: Vicente Manuel Muñoz Milchorena
 ---
 
 Me preparo con mis botas de hule, las bolsas de plástico que uso solo cuando 

@@ -1,10 +1,10 @@
 ---
 title: "El Sol"
 date: 2013-03-10
-type: "micro-fiction"
-genre: ["micro-fiction"]
-mood: "hopeful"
-theme: ["Justice", "Masonic"]
+tags: 
+  - Justice
+  - Masonic
+author: Vicente Manuel Muñoz Milchorena
 ---
 
 Sobre la cima de aquel monte descansa la justicia, de figura poco ortodoxa, 

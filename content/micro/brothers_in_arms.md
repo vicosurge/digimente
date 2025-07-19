@@ -1,10 +1,10 @@
 ---
 title: "Brothers in Arms"
 date: 2014-10-04
-type: "micro-fiction"
-genre: ["poetry"]
-mood: "Hopeful"
-theme: ["Camaraderie", "Friendship"]
+tags: 
+  - Camaraderie
+  - Friendship
+author: Vicente Manuel Muñoz Milchorena
 ---
 
 We are brothers in arms
