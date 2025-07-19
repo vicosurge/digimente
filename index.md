@@ -1,0 +1,1 @@
+Welcome to the Micro Fiction portion of the Digimente

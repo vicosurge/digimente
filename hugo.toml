@@ -18,6 +18,8 @@ theme = 'hugo-bearblog'
     url = "/about/"
     weight = 2
 
+[taxonomies]
+tag = "tags"
+
 [permalinks]
-  micro = "/:slug/"
-  tags = "/micro/:slug"
+tags = "/micro/tags/:slug/"
