@@ -10,7 +10,7 @@ theme = 'hugo-bearblog'
 [menu]
   [[menu.main]]
     name = "Micro Fiction"
-    url = "/micro/"
+    url = "/blog/"
     weight = 1
 
   [[menu.main]]
@@ -22,4 +22,5 @@ theme = 'hugo-bearblog'
 tag = "tags"
 
 [permalinks]
-tags = "/micro/tags/:slug/"
+blog = "/:slug/"
+tags = "/blog/tags/:slug/"
