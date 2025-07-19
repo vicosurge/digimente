@@ -17,3 +17,7 @@ theme = 'hugo-bearblog'
     name = "About"
     url = "/about/"
     weight = 2
+
+[permalinks]
+  micro = "/:slug/"
+  tags = "/micro/:slug"
