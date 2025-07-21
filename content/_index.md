@@ -1,3 +1,3 @@
-Welcome to the Micro Fiction portion of the Digimente
+Welcome to the Micro Fiction and Short Stories portion of the Digimente
 
-This is a smaller corner on the mind of the Digimente
+Think of it as the smaller corner of the mind of the Digimente
