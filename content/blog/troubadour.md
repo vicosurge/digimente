@@ -6,7 +6,9 @@ tags:
 author: Vicente Manuel Muñoz Milchorena
 ---
 The troubadour lacked disposition
+
 A heavy purse flew
+
 Gold struck
 
 - #hangtenstories 853
